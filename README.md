@@ -1,7 +1,7 @@
 ### Hello World! I'm Guilherme Sales.  👋
 
 - 🔭 Today i'm working at Insight Data Science Lab as Computational Linguist and at Intituto Atlântico as a Cognitive Computing developer.
-- ❤  In love with linguistics, machine learning, data visualization and science.
+- ❤  In love with linguistics, machine learning, data visualization, computer vision and science.
 - 🌱 I’m studying Flask to make a personal project.
 - 📫 You can contact me at: guisalesfer@gmail.com | guilherme.sales@insightlab.ufc
 - 😄 Pronouns: he/him | ele/dele
