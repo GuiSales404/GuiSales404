@@ -2,9 +2,9 @@
 
 - 🔭 Today i'm working at Insight Data Science Lab as Data Scientist and at Instituto Atlântico as a Cognitive Computing developer/researcher.
 - ❤  In love with linguistics, machine learning, data visualization, computer vision and science.
-- 🌱 I’m studying Flask to make a personal project.
+- 🌱 I’m studying Grammatical Framework to make a computational grammar.
 - 📫 You can contact me at: guisalesfer@gmail.com | guilherme.sales@insightlab.ufc | guilherme_sales@atlantico.com.br 
-- 📼 Creator of A Folha A4, a page to talk about cognitive computing and the relation technology/society. https://folhaa4.carrd.co
+- 📼 Creator of 'A Folha A4', a page to talk about cognitive computing and the relation technology/society. https://folhaa4.carrd.co
 - 😄 Pronouns: he/him | ele/dele
 
 <div>
