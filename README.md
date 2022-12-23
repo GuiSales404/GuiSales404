@@ -1,10 +1,10 @@
 ### Hello World! I'm Guilherme Sales.  👋
 
-- 🔭 Today i'm working at Insight Data Science Lab as Data Scientist and at Instituto Atlântico as a Cognitive Computing developer/researcher.
-- ❤  In love with linguistics, machine learning, data visualization, computer vision and science.
-- 🌱 I’m studying Grammatical Framework to make a computational grammar.
-- 📫 You can contact me at: guisalesfer@gmail.com | guilherme.sales@insightlab.ufc | guilherme_sales@atlantico.com.br 
-- 📼 Creator of 'A Folha A4', a page to talk about cognitive computing and the relation technology/society. https://folhaa4.carrd.co
+- 🔭 I'm working at Instituto Atlântico as a Cognitive Computing researcher/developer.
+- ❤  In love with Linguistics, Cognitive Science/Computing, Machine Learning and Psychology.
+- 🌱 I’m studying Grammatical Framework to generate computational grammars for a job project.
+- 💬 Languages: Portuguese| English | French | Spanish | Japanese | Esperanto.
+- 📫 You can contact me at: guisalesfer@gmail.com | guilherme_sales@atlantico.com.br 
 - 😄 Pronouns: he/him | ele/dele
 
 <div>
