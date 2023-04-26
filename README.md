@@ -4,7 +4,7 @@
 - ❤  In love with Linguistics, Cognitive Science/Computing, Machine Learning and Psychology.
 - 🌱 I’m studying Grammatical Framework to generate computational grammars for a job project.
 - 💬 Languages: Portuguese| English | French | Spanish | Japanese | Esperanto.
-- 📫 You can contact me at: guisalesfer@gmail.com | guilherme_sales@atlantico.com.br 
+- 📫 You can contact me at: guisalesfer@gmail.com | guilherme_sales@atlantico.com.br | guilherme.sales@insightlab.ufc.br
 - 😄 Pronouns: he/him | ele/dele
 
 <div>
