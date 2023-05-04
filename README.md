@@ -1,8 +1,7 @@
 ### Hello World! I'm Guilherme Sales.  👋
 
-- 🔭 I'm working at Instituto Atlântico as a Cognitive Computing researcher/developer.
-- ❤  In love with Linguistics, Cognitive Science/Computing, Machine Learning and Psychology.
-- 🌱 I’m studying Grammatical Framework to generate computational grammars for a job project.
+- 🔭 I'm working at Instituto Atlântico as a Cognitive Computing researcher/developer and at Insight Data Science as Data Scientist.
+- ❤  In love with Linguistics, Cognitive Science/Computing, Machine Learning and Data Science.
 - 💬 Languages: Portuguese| English | French | Spanish | Japanese | Esperanto.
 - 📫 You can contact me at: guisalesfer@gmail.com | guilherme_sales@atlantico.com.br | guilherme.sales@insightlab.ufc.br
 - 😄 Pronouns: he/him | ele/dele
