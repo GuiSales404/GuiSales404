@@ -3,7 +3,7 @@
 - 🔭 I'm working at Insight Data Science Lab as Data Scientist.
 - ❤  In love with NLP, Linguistics, Cognitive Science/Computing, Machine Learning and Data Science.
 - 💬 Languages: Portuguese| English | French | Spanish | Japanese.
-- 📫 You can contact me at: guisalesfer@gmail.com | guilherme_sales@atlantico.com.br | guilherme.sales@insightlab.ufc.br
+- 📫 You can contact me at: guisalesfer@gmail.com | guilherme.sales@insightlab.ufc.br
 - 😄 Pronouns: he/him | ele/dele
 
 <div>
