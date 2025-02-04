@@ -1,7 +1,7 @@
 ### Hello World! I'm Guilherme Sales.  👋
 
-- 🔭 I'm working at Audo as NLP Engineer and Researching at Insight Data Science Lab.
-- ❤  In love with NLP, Linguistics, Cognitive Science/Computing, Machine Learning and Data Science.
+- 🔭 Researcher at Insight Data Science Lab.
+- ❤  In love with NLP, Linguistics, Cognitive Science/Computing, Machine Learning and Psychology
 - 💬 Languages: Portuguese| English | French | Spanish.
 - 📫 You can contact me at: guisalesfer@gmail.com | guilherme.sales@insightlab.ufc.br
 - 😄 Pronouns: he/him | ele/dele
