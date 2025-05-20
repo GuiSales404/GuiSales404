@@ -1,9 +1,9 @@
 ### Hello World! I'm Guilherme Sales.  👋
 
-- 🔭 Researcher at Insight Data Science Lab.
-- ❤  In love with NLP, Linguistics, Cognitive Science/Computing, Machine Learning and Psychology
+- 🔭 Data Scientist at the Department of Finance of the State of Ceará, Brazil; Master Researcher at Insight Data Science Lab.
+- ❤  In love with Logic, Explainability, Linguistics, Cognitive Science/Computing, Machine Learning and Psychology
 - 💬 Languages: Portuguese| English | French | Spanish.
-- 📫 You can contact me at: guisalesfer@gmail.com | guilherme.sales@insightlab.ufc.br
+- 📫 You can contact me at: guilherme.salesfer@gmail.com | guilherme.sales@insightlab.ufc.br 
 - 😄 Pronouns: he/him | ele/dele
 
 <div>
@@ -13,10 +13,6 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="gui-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="gui-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
     <img align="center" alt="gui-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
