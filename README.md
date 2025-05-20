@@ -1,7 +1,7 @@
 ### Hello World! I'm Guilherme Sales.  👋
 
 - 🔭 Data Scientist at the Department of Finance of the State of Ceará, Brazil; Master Researcher at Insight Data Science Lab.
-- ❤  In love with Logic, Explainability, Linguistics, Cognitive Science/Computing, Machine Learning and Psychology
+- ❤  In love with Logic, Explainability, Linguistics, Cognitive Science/Computing, Machine Learning and Psychology.
 - 💬 Languages: Portuguese| English | French | Spanish.
 - 📫 You can contact me at: guilherme.salesfer@gmail.com | guilherme.sales@insightlab.ufc.br 
 - 😄 Pronouns: he/him | ele/dele
